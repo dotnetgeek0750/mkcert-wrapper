@@ -1,7 +1,7 @@
 - 什么是mkcert-wrapper
 
 
-mkcert-wrapper是一款基于mkcert制作的工具，可以：
+mkcert-wrapper是一款基于mkcert制作的工具，可以生成制作局域网内部使用的网站证书，基于mkcert将我们日常可能使用到的功能制作成一个小工具：
 - [x] 同时生成IIS、Nginx证书
 - [x] 部门以前负责证书维护的同事离职了，使用mkcert-wrapper无缝迁移
 - [x] 维护域名列表清晰明了
